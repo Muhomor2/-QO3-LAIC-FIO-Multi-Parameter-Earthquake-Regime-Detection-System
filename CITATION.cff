@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "QO3-LAIC-FIO: Multi-Parameter Earthquake Regime Detection System"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Chechelnitsky"
+    given-names: "Igor"
+    orcid: "https://orcid.org/0009-0007-4607-1946"
+    affiliation: "Independent Researcher"
+repository-code: "https://github.com/ichechelnitsky/qo3-laic-fio"
+url: "https://doi.org/10.5281/zenodo.XXXXXXX"
+abstract: >-
+  QO3-LAIC-FIO is a multi-parameter earthquake regime detection system
+  integrating Fractal Information Ontology (FIO) indicators with
+  Lithosphere-Atmosphere-Ionosphere Coupling (LAIC) model. The system
+  provides leak-free feature engineering, honest backtesting with
+  bootstrap confidence intervals, and supports custom precursor data
+  (radon, GNSS, groundwater, etc.).
+keywords:
+  - earthquake forecasting
+  - seismology
+  - machine learning
+  - fractal analysis
+  - b-value
+  - LAIC model
+  - precursor detection
+license: MIT
+version: "2.0.0"
+date-released: "2025-12-31"

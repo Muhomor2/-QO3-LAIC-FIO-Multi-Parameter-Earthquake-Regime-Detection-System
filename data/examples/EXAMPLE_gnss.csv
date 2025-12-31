@@ -1,0 +1,10 @@
+# GNSS Displacement Data Template
+# Sources: Nevada Geodetic Lab, UNAVCO
+# Format: date, east (m), north (m), up (m), station
+# Rename to gnss_<station>.csv
+date,east,north,up,station
+2025-01-01,0.002,-0.001,0.003,GPS001
+2025-01-02,0.003,-0.002,0.004,GPS001
+2025-01-03,0.002,-0.001,0.003,GPS001
+2025-01-04,0.004,-0.002,0.005,GPS001
+2025-01-05,0.003,-0.001,0.004,GPS001

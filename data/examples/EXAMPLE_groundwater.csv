@@ -1,0 +1,10 @@
+# Groundwater Level Data Template
+# Source: USGS Groundwater Network
+# Format: date, level (m, negative=below surface), temperature (°C), station
+# Rename to groundwater_<well>.csv
+date,level,temperature,station
+2025-01-01,-5.2,15.3,Well_01
+2025-01-02,-5.1,15.4,Well_01
+2025-01-03,-5.3,15.2,Well_01
+2025-01-04,-5.0,15.5,Well_01
+2025-01-05,-5.4,15.1,Well_01
