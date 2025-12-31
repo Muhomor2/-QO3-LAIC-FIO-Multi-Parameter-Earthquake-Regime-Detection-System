@@ -183,7 +183,7 @@ QO3 Full (FIO + LAIC) & 0.582 & [0.538, 0.628] & 0.275 \\
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) for details.
+CC-BY-NC-ND-4.0  License. See [LICENSE](LICENSE) for details.
 
 ## Author
 
